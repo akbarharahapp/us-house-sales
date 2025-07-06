@@ -1,4 +1,4 @@
-Analisis US House Sales Menggunakan SQL & Power BI
+### Analisis US House Sales Menggunakan SQL & Power BI
 
 ### Deskripsi Singkat
 Analisis penjualan properti rumah di Amerika Serikat menggunakan SQL untuk eksplorasi dan transformasi data, serta Power BI untuk visualisasi interaktif. Proyek ini mencakup berbagai insight seperti rata-rata harga tiap tipe properti, peforma agen, persentase penjualan properti berdasarkan dekade dibangunnya properti, dll. Dataset ini diambil melalui Kaggle.
