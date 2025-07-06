@@ -13,7 +13,7 @@ Analisis penjualan properti rumah di Amerika Serikat menggunakan SQL untuk ekspl
 - Jumlah Rumah yang Terjual, Belum Terjual, dan Tertunda Berdasarkan State
 - Jumlah Rumah yang Terjual, Belum Terjual, dan Tertunda Berdasarkan Kota
 - Distribusi Rumah yang Belum Terjual Berdasarkan Rata-rata Days on Market dari Rumah yang Terjual
-- Pesentase Penjualan Rumah Berdasarkan Tipe Properti
+- Pesentase Penjualan Rumah Berdasarkan Tipe Properti (%)
 - Persentase Penjualan Rumah Berdasarkan Dekade Dibangun (%)
 - Pesentase Penjualan Rumah Berdasarkan Tipe Properti (%)
 - Persentase Penjualan Rumah Berdasarkan Dekade Dibangun (%)
